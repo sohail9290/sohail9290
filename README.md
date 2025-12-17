@@ -25,8 +25,8 @@ I enjoy designing clean backend architectures, implementing authentication and a
 - Designed stateless authentication using JWT and Spring Security
 - Built and deployed a full-stack application with protected APIs
 
-👉 Live: https://taskflow-piranx11s-sohail9290s-projects.vercel.app  
-👉 Backend: https://taskflow-cvih.onrender.com  
+👉 **Live (Frontend):** https://taskflow-piranx11s-sohail9290s-projects.vercel.app  
+👉 **Backend API:** https://taskflow-cvih.onrender.com  
 
 ---
 
