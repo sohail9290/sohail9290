@@ -15,6 +15,11 @@ I enjoy designing clean backend architectures, implementing authentication and a
 - Production deployments on **Vercel and Render**
 
 ---
+## 💼 Open To Opportunities
+- Full Stack Software Engineer
+- Backend / Java / Spring Boot roles
+- Entry-level to 2 years experience
+---
 
 ## 🚀 Featured Projects
 
