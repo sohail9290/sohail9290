@@ -37,8 +37,8 @@ I enjoy designing clean backend architectures, implementing authentication and a
 - RESTful API design with clean layered architecture
 - DTO-based data transfer and JPA persistence
 
-👉 Live: https://staff-sphere-gold.vercel.app
-👉 Backend: https://staff-sphere-5phs.onrender.com  
+👉 **Live (Frontend):** https://staff-sphere-gold.vercel.app  
+👉 **Backend API:** https://staff-sphere-5phs.onrender.com  
 
 ---
 
